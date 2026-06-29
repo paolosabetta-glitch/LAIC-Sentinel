@@ -1,4 +1,5 @@
 # SismaLab Suite - L.A.I.C. Sentinel
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21049744.svg)](https://doi.org/10.5281/zenodo.21049744)
 
 **Open-source Python WebGIS for the automated stratigraphic analysis of Lithosphere-Atmosphere-Ionosphere Coupling (L.A.I.C.) anomalies.**
 
